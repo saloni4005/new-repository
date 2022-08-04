@@ -1,2 +1,3 @@
-# new-repository
-My First repository on github
+#hello world
+My first repository on github
+I love : coffee : :pizza : ,and : dancer : .
